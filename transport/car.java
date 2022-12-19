@@ -195,7 +195,7 @@ public class car {
             }
             this.cost = cost;
             if(number == null){
-                this.number = "123456789";
+                this.number = "012345678";
             }else{
                 this.number = number;
             }

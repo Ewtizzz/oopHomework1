@@ -1,5 +1,5 @@
 public class Flower {
-    private String flowerName = "тип цветка не указан";
+    private String flowerName = "тип цветка не указан!";
     private String country = "Россия";
     private double cost = 1;
     int lifeSpan;

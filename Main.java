@@ -12,7 +12,7 @@ public class Main {
         System.out.println(Katya.toString());
         System.out.println(Artyom.toString());
 
-        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=");
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-");
         //2
         car LadaGranta = new car("Lada","Granta",0.0,"жёлтый",2015,"Россия");
         car AudiA8 = new car("Audi", "A8", 3.0, "чёрный",2020,"Германия");
